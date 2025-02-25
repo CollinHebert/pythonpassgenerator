@@ -10,6 +10,6 @@ def pass_generator(length):
     return password
 
 print(pass_generator(12))
-
+#test
 
 
